@@ -1,0 +1,2024 @@
+
+================================================================
+======== Log Rotated - 1/28/2024, 12:00:00 AM                   
+================================================================
+> ensure "allsides_sobrenatural"
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[38;5;83m[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] [0mStarted resource allsides_sobrenatural
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[      script:hardcap] Connecting: Guilherme
+[ script:gum_animmenu] GET SQL EVENT 5
+[         script:chat] Juzeziin: tx
+> txaEvent "adminsUpdated" "[3,4]"
+> txaEvent "adminsUpdated" "[2,3,4]"
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> ensure "fx-pedmenu"
+[    c-scripting-core] Creating script environments for fx-pedmenu
+> txaReportResources
+[           resources] Started resource fx-pedmenu
+[ citizen-server-impl] server thread hitch warning: timer interval of 2217 milliseconds
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[      script:oxmysql] Error: fx-pedmenu was unable to execute a query!
+[      script:oxmysql] Table 'vorpcore_b46e76.fx_pedmenu' doesn't exist
+[38;5;42m[      script:oxmysql] SELECT * FROM fx_pedmenu []
+[   script:fx-pedmenu] [fx-pedmenu] ┌─────────────────────────────┐
+[   script:fx-pedmenu] [fx-pedmenu] ├ ✅ Version 1.5 Up to date
+[   script:fx-pedmenu] [fx-pedmenu] └─────────────────────────────┘
+[      script:oxmysql] Error: fx-pedmenu was unable to execute a query!
+[      script:oxmysql] Table 'vorpcore_b46e76.fx_pedmenu' doesn't exist
+[      script:oxmysql] SELECT * FROM fx_pedmenu WHERE charid = ? ["2"]
+[      script:oxmysql] Error: fx-pedmenu was unable to execute a query!
+[      script:oxmysql] Table 'vorpcore_b46e76.fx_pedmenu' doesn't exist
+[      script:oxmysql] SELECT * FROM fx_pedmenu WHERE charid = ? ["1"]
+[      script:oxmysql] Error: fx-pedmenu was unable to execute a query!
+[      script:oxmysql] Table 'vorpcore_b46e76.fx_pedmenu' doesn't exist
+[      script:oxmysql] SELECT * FROM fx_pedmenu WHERE charid = ? ["2"]
+[ citizen-server-impl] sync thread hitch warning: timer interval of 190 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 248 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 106 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 171 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 185 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 133 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[      script:hardcap] Connecting: Guilherme
+[ citizen-server-impl] sync thread hitch warning: timer interval of 137 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 180 milliseconds
+[      script:oxmysql] Error: fx-pedmenu was unable to execute a query!
+[      script:oxmysql] Table 'vorpcore_b46e76.fx_pedmenu' doesn't exist
+[      script:oxmysql] SELECT * FROM fx_pedmenu WHERE charid = ? ["3"]
+[     script:nss_libs] bcc-stables stopped, remove all known attached props of this resource
+[           resources] Stopping resource bcc-stables
+[    c-scripting-core] Creating script environments for bcc-stables
+[           resources] Started resource bcc-stables
+[ citizen-server-impl] [0msync thread hitch warning: timer interval of 134 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 179 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 136 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 209 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 148 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 182 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 187 milliseconds
+[  script:gum_housing] [Housing] Database: Checked all user!
+[         script:chat] Ton: consumable_haycube
+[         script:chat] Ton: consumable_haycube
+[      script:oxmysql] Error: fx-pedmenu was unable to execute a query!
+[      script:oxmysql] Table 'vorpcore_b46e76.fx_pedmenu' doesn't exist
+[      script:oxmysql] SELECT * FROM fx_pedmenu WHERE charid = ? ["1"]
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 187 milliseconds
+> ensure "fx-pedmenu"
+[     script:nss_libs] fx-pedmenu stopped, remove all known attached props of this resource
+[           resources] Stopping resource fx-pedmenu
+[    c-scripting-core] [0mCreating script environments for fx-pedmenu
+[           resources] Started resource fx-pedmenu
+[      script:oxmysql] Error: fx-pedmenu was unable to execute a query!
+[      script:oxmysql] Table 'vorpcore_b46e76.fx_pedmenu' doesn't exist
+[      script:oxmysql] SELECT * FROM fx_pedmenu []
+[   script:fx-pedmenu] [fx-pedmenu] ┌─────────────────────────────┐
+[   script:fx-pedmenu] [fx-pedmenu] ├ ✅ Version 1.5 Up to date
+[   script:fx-pedmenu] [fx-pedmenu] └─────────────────────────────┘
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[ citizen-server-impl] Couldn't find resource bcc_ranch.
+[     script:nss_libs] bcc-ranch stopped, remove all known attached props of this resource
+[           resources] Stopping resource bcc-ranch
+[    c-scripting-core] Creating script environments for bcc-ranch
+[           resources] Started resource bcc-ranch
+[    script:bcc-utils] ✅Up to Date! [bcc-ranch] (Current Version 1.3.3)
+[     script:nss_libs] bcc-ranch stopped, remove all known attached props of this resource
+[           resources] Stopping resource bcc-ranch
+[    c-scripting-core] Creating script environments for bcc-ranch
+[    script:bcc-utils] (CACHED)✅Up to Date! [bcc-ranch] (Current Version 1.3.3)
+[           resources] Started resource bcc-ranch
+[     script:nss_libs] bcc-ranch stopped, remove all known attached props of this resource
+[           resources] Stopping resource bcc-ranch
+[    c-scripting-core] Creating script environments for bcc-ranch
+[    script:bcc-utils] (CACHED)(CACHED)✅Up to Date! [36m[bcc-ranch] (Current Version 1.3.3)
+[           resources] Started resource bcc-ranch
+[     script:nss_libs] bcc-ranch stopped, remove all known attached props of this resource
+[           resources] Stopping resource bcc-ranch
+[    c-scripting-core] Creating script environments for bcc-ranch
+[    script:bcc-utils] (CACHED)(CACHED)(CACHED)✅Up to Date! [bcc-ranch] (Current Version 1.3.3)
+[           resources] Started resource bcc-ranch
+[38;5;75m[    script:bcc-ranch] SCRIPT ERROR: @bcc-ranch/server/server.lua:219: bcc-ranch was unable to execute a query!
+[    script:bcc-ranch] Column 'charidentifier' cannot be null
+[    script:bcc-ranch] INSERT INTO ranch ( `charidentifier`,`ranchcoords`,`ranchname`,`ranch_radius_limit` ,`taxamount`) VALUES ( ?,?,?,?,? ) [null,"{\"x\":-239.33360290527345,\"y\":650.7044677734375,\"z\":113.3316879272461}","abc paulsita",30,"2000\n"]
+[    script:bcc-ranch] > handler (@bcc-ranch/server/server.lua:219)
+[    script:bcc-ranch] > <unknown> (@oxmysql/dist/build.js:21832)
+[    script:bcc-ranch] > processTicksAndRejections (node:internal/process/task_queues:96)
+[38;5;75m[    script:bcc-ranch] SCRIPT ERROR: @bcc-ranch/server/server.lua:219: bcc-ranch was unable to execute a query!
+[    script:bcc-ranch] Column 'charidentifier' cannot be null
+[    script:bcc-ranch] INSERT INTO ranch ( `charidentifier`,`ranchcoords`,`ranchname`,`ranch_radius_limit` ,`taxamount`) VALUES ( ?,?,?,?,? ) [null,"{\"x\":-239.0719451904297,\"y\":651.9332275390625,\"z\":113.3309097290039}","TEXAS",100,"4000"]
+[    script:bcc-ranch] > handler (@bcc-ranch/server/server.lua:219)
+[    script:bcc-ranch] > <unknown> (@oxmysql/dist/build.js:21832)
+[    script:bcc-ranch] > processTicksAndRejections (node:internal/process/task_queues:96)
+[ citizen-server-impl] sync thread hitch warning: timer interval of 128 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 263 milliseconds
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> ensure "bcc-ranch"
+[     script:nss_libs] bcc-ranch stopped, remove all known attached props of this resource
+[           resources] Stopping resource bcc-ranch
+[    c-scripting-core] Creating script environments for bcc-ranch
+[    script:bcc-utils] (CACHED)[35m(CACHED)(CACHED)(CACHED)✅Up to Date! [bcc-ranch] (Current Version 1.3.3)
+[           resources] Started resource bcc-ranch
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+[ citizen-server-impl] sync thread hitch warning: timer interval of 137 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 171 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 148 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 184 milliseconds
+[           resources] Scanning resources.
+[           resources] Found 0 new resources, and refreshed 0/98 resources.
+[     script:nss_libs] bcc-ranch stopped, remove all known attached props of this resource
+[           resources] Stopping resource bcc-ranch
+[    c-scripting-core] Creating script environments for bcc-ranch
+[    script:bcc-utils] [0m(CACHED)(CACHED)(CACHED)(CACHED)(CACHED)✅Up to Date! [bcc-ranch] (Current Version 1.3.3)
+[           resources] [97mStarted resource bcc-ranch
+[      script:oxmysql] Error: fx-pedmenu was unable to execute a query!
+[      script:oxmysql] Table 'vorpcore_b46e76.fx_pedmenu' doesn't exist
+[      script:oxmysql] SELECT * FROM fx_pedmenu WHERE charid = ? ["3"]
+[ citizen-server-impl] server thread hitch warning: timer interval of 179 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 107 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 191 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 223 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 239 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 177 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 273 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 255 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 131 milliseconds
+[     script:nss_libs] bcc-ranch stopped, remove all known attached props of this resource
+[           resources] Stopping resource bcc-ranch
+[    c-scripting-core] Creating script environments for bcc-ranch
+[    script:bcc-utils] (CACHED)(CACHED)(CACHED)(CACHED)(CACHED)(CACHED)✅Up to Date! [bcc-ranch] (Current Version 1.3.3)
+[           resources] Started resource bcc-ranch
+[      script:oxmysql] Error: fx-pedmenu was unable to execute a query!
+[      script:oxmysql] Table 'vorpcore_b46e76.fx_pedmenu' doesn't exist
+[      script:oxmysql] SELECT * FROM fx_pedmenu WHERE charid = ? ["1"]
+[      script:hardcap] Connecting: Guilherme
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 171 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 173 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 176 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 140 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 216 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 157 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 114 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 177 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 177 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 212 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 123 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 185 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 123 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 131 milliseconds
+[  script:gum_housing] [Housing] Database: Checked all user!
+[      script:hardcap] Connecting: Khloe Bravo
+[      script:oxmysql] Error: fx-pedmenu was unable to execute a query!
+[      script:oxmysql] Table 'vorpcore_b46e76.fx_pedmenu' doesn't exist
+[      script:oxmysql] SELECT * FROM fx_pedmenu WHERE charid = ? ["3"]
+> txaReportResources
+[38;5;84m[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> stop "fx-pedmenu"
+[     script:nss_libs] fx-pedmenu stopped, remove all known attached props of this resource
+[           resources] Stopping resource fx-pedmenu
+> txaReportResources
+[      script:monitor] [txAdmin] Sending resources list to txAdmin.
+> ensure "nss_pedmenu"
+[     script:nss_libs] nss_pedmenu stopped, remove all known attached props of this resource
+[           resources] Stopping resource nss_pedmenu
+[    c-scripting-core] Creating script environments for nss_pedmenu
+[           resources] [97mStarted resource nss_pedmenu
+[     script:nss_libs] ✅   Up to Date! nss_pedmenu (Installed 1.0.0)
+> txaReportResources
+[      script:monitor] [txAdmin][97m Sending resources list to txAdmin.
+[      script:hardcap] Connecting: Juzeziin
+[ citizen-server-impl] sync thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 204 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 109 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 107 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 222 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[ citizen-server-impl] server thread hitch warning: timer interval of 183 milliseconds
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[      script:hardcap] Connecting: Guilherme
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] [0mCreating script environments for gum_housing
+[           resources] Started resource gum_housing
+[ citizen-server-impl] server thread hitch warning: timer interval of 165 milliseconds
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[38;5;86m[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[38;5;86m[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[     script:nss_libs] bcc-ranch stopped, remove all known attached props of this resource
+[           resources] Stopping resource bcc-ranch
+[     script:nss_libs] vorp_inputs stopped, remove all known attached props of this resource
+[           resources] Stopping resource vorp_inputs
+[           resources] Started resource vorp_inputs
+[      script:hardcap] Connecting: Khloe Bravo
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[    c-scripting-core] Creating script environments for gum_api
+[           resources] [0mStarted resource gum_api
+[script:vorp_inventor] SCRIPT ERROR: citizen:/scripting/lua/scheduler.lua:479: attempt to concatenate a nil value (local 'err')
+[script:vorp_inventor] > handler (@vorp_inventory/server/services/inventoryService.lua:47)
+[script:vorp_inventor] Function call failed with error:	nil
+[script:vorp_inventor] SCRIPT ERROR: citizen:/scripting/lua/scheduler.lua:479: attempt to concatenate a nil value (local 'err')
+[script:vorp_inventor] > handler (@vorp_inventory/server/services/inventoryService.lua:47)
+[script:vorp_inventor] Function call failed with error:	nil
+[     script:nss_libs] vorp_inputs stopped, remove all known attached props of this resource
+[           resources] Stopping resource vorp_inputs
+[           resources] [0mStarted resource vorp_inputs
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[ script:gum_animmenu] SCRIPT ERROR: error object is not a string
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[38;5;86m[  script:gum_housing] [Housing] Database: Checked all user!
+[ citizen-server-impl] sync thread hitch warning: timer interval of 119 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 212 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 236 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 189 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 182 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 111 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 200 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 121 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 256 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 270 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 116 milliseconds
+[      script:hardcap] Connecting: Guilherme
+[ script:gum_animmenu] SCRIPT ERROR: error object is not a string
+[ citizen-server-impl] server thread hitch warning: timer interval of 184 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 140 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 288 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 124 milliseconds
+[     script:nss_libs] gum_animmenu stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_animmenu
+[    c-scripting-core] Creating script environments for gum_animmenu
+[           resources] Started resource gum_animmenu
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[   resources:gum_api] Warning: could not find client_script `config.lua` (defined in fxmanifest.lua:15)
+[   resources:gum_api] Warning: could not find client_script `clientData/data.lua` (defined in fxmanifest.lua:15)
+[   resources:gum_api] Warning: could not find client_script `clientData/client.lua` (defined in fxmanifest.lua:15)
+[   resources:gum_api] Warning: could not find server_script `config.lua` (defined in fxmanifest.lua:4)
+[   resources:gum_api] Warning: could not find server_script `serverData/serverCompCustom.lua` (defined in fxmanifest.lua:4)
+[   resources:gum_api] Warning: could not find server_script `serverData/serverCompGum.lua` (defined in fxmanifest.lua:4)
+[   resources:gum_api] Warning: could not find server_script `serverData/serverCompRedEM.lua` (defined in fxmanifest.lua:4)
+[   resources:gum_api] Warning: could not find server_script `serverData/serverCompRedEMReboot.lua` (defined in fxmanifest.lua:4)
+[   resources:gum_api] Warning: could not find server_script `serverData/serverCompQBR.lua` (defined in fxmanifest.lua:4)
+[   resources:gum_api] Warning: could not find server_script `serverData/serverCompRSG.lua` (defined in fxmanifest.lua:4)
+[   resources:gum_api] Warning: could not find server_script `serverData/serverCompVorp.lua` (defined in fxmanifest.lua:4)
+[   resources:gum_api] Warning: could not find file `html/index.js` (defined in fxmanifest.lua:25)
+[   resources:gum_api] Warning: could not find file `html/index.css` (defined in fxmanifest.lua:25)
+[   resources:gum_api] Warning: could not find file `html/index.html` (defined in fxmanifest.lua:25)
+[   resources:gum_api] Warning: could not find file `html/crock.ttf` (defined in fxmanifest.lua:25)
+[   resources:gum_api] Warning: could not find file `html/images/*.png` (defined in fxmanifest.lua:25)
+[           resources] Started resource gum_api (16 warnings)
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[  script:gum_housing] SCRIPT ERROR: ?:-1: attempt to index a nil value
+[           resources] Started resource gum_housing
+[     script:nss_libs] gum_lockpick stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_lockpick
+[    c-scripting-core] [0mCreating script environments for gum_lockpick
+[           resources] Started resource gum_lockpick
+[     script:nss_libs] house_model stopped, remove all known attached props of this resource
+[           resources] Stopping resource house_model
+[           resources] Started resource house_model
+[     script:nss_libs] spooni_houses stopped, remove all known attached props of this resource
+[           resources] Stopping resource spooni_houses
+[           resources] Started resource spooni_houses
+[ citizen-server-impl] server thread hitch warning: timer interval of 653 milliseconds
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [0m[Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] SCRIPT ERROR: ?:-1: attempt to index a nil value (upvalue '?')
+[ citizen-server-impl] sync thread hitch warning: timer interval of 144 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 187 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 195 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 128 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 142 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 185 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 274 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 221 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 153 milliseconds
+[      script:hardcap] Connecting: Khloe Bravo
+[      script:hardcap] Connecting: Khloe Bravo
+[      script:hardcap] Connecting: Juzeziin
+[      script:hardcap] Connecting: Juzeziin
+[ citizen-server-impl] network thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 191 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 238 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 242 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 249 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 313 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 314 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 361 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 204 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 140 milliseconds
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 1/28/2024, 2:16:04 AM              
+================================================================
+[           resources] Scanning resources.
+[           resources] Found 98 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] Server license key authentication succeeded. Welcome!
+[38;5;161m[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for sessionmanager-rdr3
+[           resources] Started resource sessionmanager-rdr3
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] [0mCreating script environments for mapmanager
+[           resources] Started resource mapmanager
+[38;5;161m[    c-scripting-core] Creating script environments for webpack
+[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[   script:mapmanager] Started map redm-map-one
+[           resources] Started resource redm-map-one
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[           resources] [0mStarted resource vorp_menu
+[    c-scripting-core] Creating script environments for weathersync
+[           resources] Started resource weathersync
+[           resources] Started resource interiors
+[           resources] Started resource syn_minigame
+[    c-scripting-core] Creating script environments for vorp_core
+[           resources] Started resource vorp_core
+[           resources] [0mStarted resource vorp_inputs
+[    c-scripting-core] Creating script environments for vorp_progressbar
+[           resources] Started resource vorp_progressbar
+[    c-scripting-core] Creating script environments for vorp_inventory
+[38;5;83m[           resources] Started resource vorp_inventory
+[    c-scripting-core] Creating script environments for vorp_character
+[           resources] Started resource vorp_character
+[    c-scripting-core] Creating script environments for vorp_utils
+[38;5;83m[           resources] [97mStarted resource vorp_utils
+[    c-scripting-core] Creating script environments for vorp_admin
+[38;5;83m[           resources] Started resource vorp_admin
+[38;5;161m[    c-scripting-core] Creating script environments for vorp_metabolism
+[           resources] Started resource vorp_metabolism
+[    c-scripting-core] [0mCreating script environments for vorp_barbershop
+[           resources] Started resource vorp_barbershop
+[    c-scripting-core] [97mCreating script environments for vorp_postman
+[ script:vorp_postman] vorp_postman: Language En.json loaded!
+[38;5;18m[ script:vorp_postman] Instantiated instance of script vorp_postman_sv.LoadConfig.
+[ script:vorp_postman] Instantiated instance of script vorp_postman_sv.vorp_postman_sv_init.
+[           resources] Started resource vorp_postman
+[    c-scripting-core] Creating script environments for vorp_hunting
+[           resources] Started resource vorp_hunting
+[    c-scripting-core] Creating script environments for vorp_weaponsv2
+[           resources] Started resource vorp_weaponsv2
+[    c-scripting-core] Creating script environments for vorp_clothingstores
+[resources:vorp_cloth] Warning: could not find shared_script `languages/*.lua` (defined in fxmanifest.lua:20)
+[38;5;83m[           resources] Started resource vorp_clothingstores (1 warning)
+[    c-scripting-core] Creating script environments for vorp_stores
+[           resources] Started resource vorp_stores
+[    c-scripting-core] Creating script environments for vorp_fishing
+[           resources] Started resource vorp_fishing
+[38;5;161m[    c-scripting-core] Creating script environments for vorp_housing
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Shared.BasePluginManager.
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Shared.Models.House.
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Shared.Models.Room.
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Server.HouseInventory.
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Server.Init.
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Server.PluginManager.
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Server.Scripts.Manager.
+[           resources] Started resource vorp_housing
+[    c-scripting-core] [0mCreating script environments for vorp_banking
+[           resources] Started resource vorp_banking
+[38;5;161m[    c-scripting-core] Creating script environments for vorp_mailbox
+[38;5;83m[           resources] Started resource vorp_mailbox
+[    c-scripting-core] Creating script environments for vorp_walkanim
+[           resources] Started resource vorp_walkanim
+[    c-scripting-core] Creating script environments for vorp_ml_policejob
+[           resources] Started resource vorp_ml_policejob
+[    c-scripting-core] Creating script environments for vorp_crafting
+[           resources] Started resource vorp_crafting
+[    c-scripting-core] Creating script environments for vorp_zonenotify
+[38;5;83m[           resources] Started resource vorp_zonenotify
+[    c-scripting-core] Creating script environments for vorp_mining
+[           resources] Started resource vorp_mining
+[    c-scripting-core] Creating script environments for vorp_lumberjack
+[           resources] Started resource vorp_lumberjack
+[    c-scripting-core] Creating script environments for vorp_animations
+[           resources] Started resource vorp_animations
+[    c-scripting-core] Creating script environments for vorp_outlaws
+[           resources] [0mStarted resource vorp_outlaws
+[ citizen-server-impl] Couldn't find resource gum_api.
+[    c-scripting-core] Creating script environments for gum_housing
+[  script:gum_housing] [0mSCRIPT ERROR: ?:-1: attempt to index a nil value
+[           resources] Started resource gum_housing
+[    c-scripting-core] Creating script environments for gum_lockpick
+[           resources] Started resource gum_lockpick
+[38;5;83m[           resources] Started resource house_model
+[38;5;83m[           resources] Started resource spooni_houses
+[    c-scripting-core] Creating script environments for gum_animmenu
+[           resources] Started resource gum_animmenu
+[    c-scripting-core] [0mCreating script environments for bcc-utils
+[           resources] Started resource bcc-utils
+[    c-scripting-core] Creating script environments for bcc-minigames
+[           resources] Started resource bcc-minigames
+[38;5;161m[    c-scripting-core] Creating script environments for bcc-stables
+[           resources] Started resource bcc-stables
+[    c-scripting-core] Creating script environments for bcc-ranch
+[    script:bcc-utils] (CACHED)✅Up to Date! [bcc-ranch] (Current Version 1.3.3)
+[           resources] [97mStarted resource bcc-ranch
+[    c-scripting-core] Creating script environments for bcc-boats
+[           resources] [0mStarted resource bcc-boats
+[    c-scripting-core] [97mCreating script environments for bcc-farming
+[           resources] Started resource bcc-farming
+[    c-scripting-core] Creating script environments for bcc-pets
+[           resources] Started resource bcc-pets
+[38;5;161m[    c-scripting-core] Creating script environments for bcc-wagons
+[           resources] Started resource bcc-wagons
+[    c-scripting-core] Creating script environments for nss_libs
+[38;5;83m[           resources] Started resource nss_libs
+[    c-scripting-core] [0mCreating script environments for nss_pedmenu
+[           resources] [97mStarted resource nss_pedmenu
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[    c-scripting-core] [97mCreating script environments for bulgar_river
+[ script:bulgar_river]  bulgar_river Successfully Loaded 
+[ script:bulgar_river]  Developed by BulgaR 
+[ script:bulgar_river]  If you got any question or require support join: https://discord.gg/dcyY2e5kb3 
+[           resources] [0mStarted resource bulgar_river
+[    script:bcc-utils] ✅Up to Date! [bcc-utils] (Current Version 1.0.6)
+[    script:bcc-utils] [0m✅Up to Date! [bcc-farming] (Current Version 1.0.4)
+[      script:oxmysql] Database server connection established!
+[     script:nss_libs] ✅   Up to Date! nss_libs (Installed 0.28.1)
+[     script:nss_libs] ✅   Up to Date! nss_pedmenu (Installed 1.0.0)
+[      script:oxmysql] An update is available for oxmysql (current version: 2.7.1)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.7.7
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://khloebravo-466z99.users.cfx.re/
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[script:vorp_metaboli] Metabolism: Loading 5 items usables
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[    script:vorp_core] ###############################################################################
+[    script:vorp_core] 
+[    script:vorp_core] ----- #RedM ----------------------------------------------------------------------
+[    script:vorp_core]  /##    /##  /######  /#######  /#######   /######   /######  /#######  /########
+[    script:vorp_core] | ##   | ## /##__  ##| ##__  ##| ##__  ## /##__  ## /##__  ##| ##__  ##| ##_____/
+[    script:vorp_core] | ##   | ##| ##  | ##| ##  | ##| ##  | ##| ##  |__/| ##  | ##| ##  | ##| ##      
+[    script:vorp_core] |  ## / ##/| ##  | ##| #######/| #######/| ##      | ##  | ##| #######/| #####   
+[    script:vorp_core]  |  ## ##/ | ##  | ##| ##__  ##| ##____/ | ##      | ##  | ##| ##__  ##| ##__/   
+[    script:vorp_core]   |  ###/  | ##  | ##| ##  | ##| ##      | ##    ##| ##  | ##| ##  | ##| ##      
+[    script:vorp_core]    |  #/   |  ######/| ##  | ##| ##      |  ######/|  ######/| ##  | ##| ########
+[    script:vorp_core]     |_/     |______/ |__/  |__/|__/       |______/  |______/ |__/  |__/|________/
+[    script:vorp_core] ----------------------------------------------------VORPcore Framework Lua -----
+[    script:vorp_core] 
+[    script:vorp_core] VORPcore Version check 
+[    script:vorp_core] Resources found
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_progressbar) ❌ Outdated (v1.1) - Update found: Version 1.2.0 (https://github.com/VORPCORE/vorp_progressbar)
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_inventory) ❌ Outdated (v3.2) - Update found: Version 3.3 (https://github.com/VORPCORE/vorp_inventory-lua)
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_character) ❌ Outdated (v1.4) - Update found: Version 1.5 (https://github.com/VORPCORE/vorp_character-lua)
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_core) ❌ Outdated (v2.3) - Update found: Version 2.4 (https://github.com/VORPCORE/vorp-core-lua)
+[    script:vorp_core] 
+[    script:vorp_core] ###############################
+[    script:vorp_core] 
+[    script:vorp_core] VORP_PROGRESSBAR - Changelog:
+[    script:vorp_core]  
+[    script:vorp_core] - progressBars support added (Remove progressBars if you have it installed
+[    script:vorp_core] ###############################
+[    script:vorp_core] 
+[    script:vorp_core] VORP_INVENTORY - Changelog:
+[    script:vorp_core]   
+[    script:vorp_core] - fixed items with metadata being removed and then addd back on relog  
+[    script:vorp_core] - added some error handling for some functions  
+[    script:vorp_core] - added new export to get core object  
+[    script:vorp_core] - added new callbacks  
+[    script:vorp_core] - added custom description for weapons  
+[    script:vorp_core] - added exports for modifying/adding custom label description and serial numbers from weapons  
+[    script:vorp_core] - removed dataview file , using vorp core file instead.  
+[    script:vorp_core] - refactor opening custom inventories with a notify saying its busy  
+[    script:vorp_core] - item trade logs fixed  
+[    script:vorp_core] - added config file just for logs  
+[    script:vorp_core] - make sure to update all files
+[    script:vorp_core] ###############################
+[    script:vorp_core] 
+[    script:vorp_core] VORP_CHARACTER - Changelog:
+[    script:vorp_core]  
+[    script:vorp_core] - In this version RDO intro has been added with scenes  
+[    script:vorp_core] - Textures for character selector should now be loaded correctly and not be *seen* loading 
+[    script:vorp_core] - refactor most of the code to work with RDO intro 
+[    script:vorp_core] - mug shots will be sent to client social club app in game they can gather their screenshots there edit etc... 
+[    script:vorp_core] - added some extra checks and optimized a bit of the code 
+[    script:vorp_core] - added some text to let players know the stage they go in 
+[    script:vorp_core] - to update to this venison to must back up your old and add your new do not replace files
+[    script:vorp_core] ###############################
+[    script:vorp_core] 
+[    script:vorp_core] VORP_CORE - Changelog:
+[    script:vorp_core]   
+[    script:vorp_core] - added export GetCore() instead of using trigger event  
+[    script:vorp_core] - GetCore export now has new call back system included  
+[    script:vorp_core] - you can call dataview in your scripts like `@vorp_core/client/dataview.lua`   
+[    script:vorp_core] - added to the logs of modifyCharName the new name added to the player  
+[    script:vorp_core] - added state bags visit documentation `https://vorpcore.github.io/VORP_Documentation/api/core#state 
+[    script:vorp_core] -bags`  
+[    script:vorp_core] - new event listeners for job changes and group `https://vorpcore.github.io/VORP_Documentation/api/core#event 
+[    script:vorp_core] -listners`  
+[    script:vorp_core] - other small issues were fixed  
+[    script:vorp_core] - update all file
+[    script:vorp_core] ###############################
+[    script:vorp_core] 
+[    script:vorp_core] ###############################################################################
+[    script:vorp_core] Resource version Check (vorp_stores) ✅ Up to date - Version 2.1
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_animations) ✅ Up to date - Version 1.0
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_barbershop) ✅ Up to date - Version 1.0
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_admin) ✅ Up to date - Version 2.4
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_zonenotify) ✅ Up to date - Version 1.0
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_hunting) ✅ Up to date - Version 1.0.4
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_metabolism) ✅ Up to date - Version 1.1
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_banking) ✅ Up to date - Version 1.5
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_clothingstores) ✅ Up to date - Version 1.1
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_crafting) ✅ Up to date - Version 1.6
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_fishing) ✅ Up to date - Version 1.1
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_mailbox) ✅ Up to date - Version 1.0
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_outlaws) ✅ Up to date - Version 1.0
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_walkanim) ✅ Up to date - Version 1.2
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_weaponsv2) ✅ Up to date - Version 2.1
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_inputs) ✅ Up to date - Version 1.2
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_utils) ✅ Up to date - Version 1.1.1
+[    script:vorp_core] 
+[    script:vorp_core] 
+[    script:vorp_core] VORPcore Database Auto Updater 
+[    script:vorp_core] 
+[    script:vorp_core] Database Auto Updater (MariaDB)✅ Database is up to date
+[    script:vorp_core] ###############################################################################
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] SCRIPT ERROR: ?:-1: attempt to index a nil value (upvalue '?')
+[      script:hardcap] Connecting: Juzeziin
+[      script:hardcap] Connecting: Khloe Bravo
+[ citizen-server-impl] server thread hitch warning: timer interval of 170 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 170 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 822 milliseconds
+[                 cmd] No such command STOPvorp_housing.
+[     script:nss_libs] vorp_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource vorp_housing
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[38;5;161m[    c-scripting-core] Creating script environments for gum_housing
+[  script:gum_housing] SCRIPT ERROR: ?:-1: attempt to index a nil value
+[           resources] Started resource gum_housing
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] [0mSet payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] SCRIPT ERROR: ?:-1: attempt to index a nil value (upvalue '?')
+[ citizen-server-impl] server thread hitch warning: timer interval of 171 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 117 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 123 milliseconds
+[  citizen-server-gui] You can reopen the server GUI using the command svgui.
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 1/28/2024, 2:22:43 AM              
+================================================================
+[38;5;83m[           resources] Scanning resources.
+[           resources] Found 98 resources.
+[          svadhesive] Authenticating server license key...
+[          svadhesive] [0mServer license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for sessionmanager-rdr3
+[           resources] Started resource sessionmanager-rdr3
+[    c-scripting-core] Creating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for webpack
+[38;5;83m[           resources] Started resource webpack
+[    c-scripting-core] Creating script environments for chat
+[           resources] Started resource chat
+[           resources] Started resource spawnmanager
+[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[   script:mapmanager] Started map redm-map-one
+[           resources] Started resource redm-map-one
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[           resources] Started resource vorp_menu
+[    c-scripting-core] Creating script environments for weathersync
+[           resources] Started resource weathersync
+[           resources] Started resource interiors
+[           resources] Started resource syn_minigame
+[    c-scripting-core] Creating script environments for vorp_core
+[           resources] Started resource vorp_core
+[           resources] Started resource vorp_inputs
+[    c-scripting-core] Creating script environments for vorp_progressbar
+[           resources] Started resource vorp_progressbar
+[    c-scripting-core] Creating script environments for vorp_inventory
+[           resources] Started resource vorp_inventory
+[    c-scripting-core] Creating script environments for vorp_character
+[           resources] Started resource vorp_character
+[    c-scripting-core] [97mCreating script environments for vorp_utils
+[           resources] Started resource vorp_utils
+[    c-scripting-core] Creating script environments for vorp_admin
+[           resources] Started resource vorp_admin
+[    c-scripting-core] Creating script environments for vorp_metabolism
+[           resources] Started resource vorp_metabolism
+[    c-scripting-core] Creating script environments for vorp_barbershop
+[           resources] Started resource vorp_barbershop
+[38;5;161m[    c-scripting-core] Creating script environments for vorp_postman
+[ script:vorp_postman] vorp_postman: Language En.json loaded!
+[ script:vorp_postman] [0mInstantiated instance of script vorp_postman_sv.LoadConfig.
+[ script:vorp_postman] [97mInstantiated instance of script vorp_postman_sv.vorp_postman_sv_init.
+[           resources] Started resource vorp_postman
+[    c-scripting-core] Creating script environments for vorp_hunting
+[           resources] Started resource vorp_hunting
+[    c-scripting-core] [97mCreating script environments for vorp_weaponsv2
+[           resources] Started resource vorp_weaponsv2
+[    c-scripting-core] Creating script environments for vorp_clothingstores
+[resources:vorp_cloth] Warning: could not find shared_script `languages/*.lua` (defined in fxmanifest.lua:20)
+[           resources] Started resource vorp_clothingstores (1 warning)
+[    c-scripting-core] Creating script environments for vorp_stores
+[           resources] Started resource vorp_stores
+[    c-scripting-core] Creating script environments for vorp_fishing
+[           resources] Started resource vorp_fishing
+[    c-scripting-core] Creating script environments for vorp_housing
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Shared.BasePluginManager.
+[ script:vorp_housing] [0mInstantiated instance of script VORP.Housing.Shared.Models.House.
+[ script:vorp_housing] [0mInstantiated instance of script VORP.Housing.Shared.Models.Room.
+[ script:vorp_housing] [0mInstantiated instance of script VORP.Housing.Server.HouseInventory.
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Server.Init.
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Server.PluginManager.
+[38;5;132m[ script:vorp_housing] Instantiated instance of script VORP.Housing.Server.Scripts.Manager.
+[38;5;83m[           resources] [0mStarted resource vorp_housing
+[    c-scripting-core] Creating script environments for vorp_banking
+[38;5;83m[           resources] Started resource vorp_banking
+[    c-scripting-core] Creating script environments for vorp_mailbox
+[           resources] [0mStarted resource vorp_mailbox
+[    c-scripting-core] Creating script environments for vorp_walkanim
+[           resources] Started resource vorp_walkanim
+[    c-scripting-core] Creating script environments for vorp_ml_policejob
+[           resources] Started resource vorp_ml_policejob
+[    c-scripting-core] Creating script environments for vorp_crafting
+[           resources] Started resource vorp_crafting
+[    c-scripting-core] Creating script environments for vorp_zonenotify
+[           resources] Started resource vorp_zonenotify
+[    c-scripting-core] Creating script environments for vorp_mining
+[           resources] Started resource vorp_mining
+[    c-scripting-core] Creating script environments for vorp_lumberjack
+[           resources] Started resource vorp_lumberjack
+[    c-scripting-core] Creating script environments for vorp_animations
+[           resources] Started resource vorp_animations
+[    c-scripting-core] Creating script environments for vorp_outlaws
+[           resources] Started resource vorp_outlaws
+[    c-scripting-core] [0mCreating script environments for gum_api
+[           resources] Started resource gum_api
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[    c-scripting-core] Creating script environments for gum_lockpick
+[           resources] Started resource gum_lockpick
+[           resources] Started resource house_model
+[           resources] [0mStarted resource spooni_houses
+[    c-scripting-core] Creating script environments for gum_animmenu
+[           resources] Started resource gum_animmenu
+[    c-scripting-core] [0mCreating script environments for bcc-utils
+[    script:bcc-utils] (CACHED)✅Up to Date! [bcc-utils] (Current Version 1.0.6)
+[           resources] Started resource bcc-utils
+[    c-scripting-core] Creating script environments for bcc-minigames
+[           resources] Started resource bcc-minigames
+[    c-scripting-core] Creating script environments for bcc-stables
+[           resources] Started resource bcc-stables
+[    c-scripting-core] Creating script environments for bcc-ranch
+[    script:bcc-utils] (CACHED)(CACHED)✅Up to Date! [bcc-ranch] (Current Version 1.3.3)
+[           resources] Started resource bcc-ranch
+[    c-scripting-core] [97mCreating script environments for bcc-boats
+[           resources] [97mStarted resource bcc-boats
+[    c-scripting-core] Creating script environments for bcc-farming
+[    script:bcc-utils] [0m(CACHED)✅Up to Date! [bcc-farming] (Current Version 1.0.4)
+[           resources] Started resource bcc-farming
+[    c-scripting-core] Creating script environments for bcc-pets
+[38;5;83m[           resources] Started resource bcc-pets
+[    c-scripting-core] Creating script environments for bcc-wagons
+[           resources] Started resource bcc-wagons
+[    c-scripting-core] Creating script environments for nss_libs
+[           resources] [97mStarted resource nss_libs
+[    c-scripting-core] Creating script environments for nss_pedmenu
+[           resources] Started resource nss_pedmenu
+[38;5;161m[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for bulgar_river
+[ script:bulgar_river]  bulgar_river Successfully Loaded 
+[ script:bulgar_river]  Developed by BulgaR 
+[ script:bulgar_river]  If you got any question or require support join: https://discord.gg/dcyY2e5kb3 
+[           resources] Started resource bulgar_river
+[      script:oxmysql] Database server connection established!
+[     script:nss_libs] ✅   Up to Date! nss_libs (Installed 0.28.1)
+[     script:nss_libs] ✅   Up to Date! nss_pedmenu (Installed 1.0.0)
+[      script:oxmysql] An update is available for oxmysql (current version: 2.7.1)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.7.7
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://khloebravo-466z99.users.cfx.re/
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[38;5;86m[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[script:vorp_metaboli] Metabolism: Loading 5 items usables
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[    script:vorp_core] ###############################################################################
+[    script:vorp_core] 
+[    script:vorp_core] ----- #RedM ----------------------------------------------------------------------
+[    script:vorp_core]  /##    /##  /######  /#######  /#######   /######   /######  /#######  /########
+[    script:vorp_core] | ##   | ## /##__  ##| ##__  ##| ##__  ## /##__  ## /##__  ##| ##__  ##| ##_____/
+[    script:vorp_core] | ##   | ##| ##  | ##| ##  | ##| ##  | ##| ##  |__/| ##  | ##| ##  | ##| ##      
+[    script:vorp_core] |  ## / ##/| ##  | ##| #######/| #######/| ##      | ##  | ##| #######/| #####   
+[    script:vorp_core]  |  ## ##/ | ##  | ##| ##__  ##| ##____/ | ##      | ##  | ##| ##__  ##| ##__/   
+[    script:vorp_core]   |  ###/  | ##  | ##| ##  | ##| ##      | ##    ##| ##  | ##| ##  | ##| ##      
+[    script:vorp_core]    |  #/   |  ######/| ##  | ##| ##      |  ######/|  ######/| ##  | ##| ########
+[    script:vorp_core]     |_/     |______/ |__/  |__/|__/       |______/  |______/ |__/  |__/|________/
+[    script:vorp_core] ----------------------------------------------------VORPcore Framework Lua -----
+[    script:vorp_core] 
+[    script:vorp_core] VORPcore Version check 
+[    script:vorp_core] Resources found
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_progressbar) ❌ Outdated (v1.1) - Update found: Version 1.2.0 (https://github.com/VORPCORE/vorp_progressbar)
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_inventory) ❌ Outdated (v3.2) - Update found: Version 3.3 (https://github.com/VORPCORE/vorp_inventory-lua)
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_character) ❌ Outdated (v1.4) - Update found: Version 1.5 (https://github.com/VORPCORE/vorp_character-lua)
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_core) ❌ Outdated (v2.3) - Update found: Version 2.4 (https://github.com/VORPCORE/vorp-core-lua)
+[    script:vorp_core] 
+[    script:vorp_core] ###############################
+[    script:vorp_core] 
+[    script:vorp_core] VORP_PROGRESSBAR - Changelog:
+[    script:vorp_core]  
+[    script:vorp_core] - progressBars support added (Remove progressBars if you have it installed
+[    script:vorp_core] ###############################
+[    script:vorp_core] 
+[    script:vorp_core] VORP_INVENTORY - Changelog:
+[    script:vorp_core]   
+[    script:vorp_core] - fixed items with metadata being removed and then addd back on relog  
+[    script:vorp_core] - added some error handling for some functions  
+[    script:vorp_core] - added new export to get core object  
+[    script:vorp_core] - added new callbacks  
+[    script:vorp_core] - added custom description for weapons  
+[    script:vorp_core] - added exports for modifying/adding custom label description and serial numbers from weapons  
+[    script:vorp_core] - removed dataview file , using vorp core file instead.  
+[    script:vorp_core] - refactor opening custom inventories with a notify saying its busy  
+[    script:vorp_core] - item trade logs fixed  
+[    script:vorp_core] - added config file just for logs  
+[    script:vorp_core] - make sure to update all files
+[    script:vorp_core] ###############################
+[    script:vorp_core] 
+[    script:vorp_core] VORP_CHARACTER - Changelog:
+[    script:vorp_core]  
+[    script:vorp_core] - In this version RDO intro has been added with scenes  
+[    script:vorp_core] - Textures for character selector should now be loaded correctly and not be *seen* loading 
+[    script:vorp_core] - refactor most of the code to work with RDO intro 
+[    script:vorp_core] - mug shots will be sent to client social club app in game they can gather their screenshots there edit etc... 
+[    script:vorp_core] - added some extra checks and optimized a bit of the code 
+[    script:vorp_core] - added some text to let players know the stage they go in 
+[    script:vorp_core] - to update to this venison to must back up your old and add your new do not replace files
+[    script:vorp_core] ###############################
+[    script:vorp_core] 
+[    script:vorp_core] VORP_CORE - Changelog:
+[    script:vorp_core]   
+[    script:vorp_core] - added export GetCore() instead of using trigger event  
+[    script:vorp_core] - GetCore export now has new call back system included  
+[    script:vorp_core] - you can call dataview in your scripts like `@vorp_core/client/dataview.lua`   
+[    script:vorp_core] - added to the logs of modifyCharName the new name added to the player  
+[    script:vorp_core] - added state bags visit documentation `https://vorpcore.github.io/VORP_Documentation/api/core#state 
+[    script:vorp_core] -bags`  
+[    script:vorp_core] - new event listeners for job changes and group `https://vorpcore.github.io/VORP_Documentation/api/core#event 
+[    script:vorp_core] -listners`  
+[    script:vorp_core] - other small issues were fixed  
+[    script:vorp_core] - update all file
+[    script:vorp_core] ###############################
+[    script:vorp_core] 
+[    script:vorp_core] ###############################################################################
+[    script:vorp_core] Resource version Check (vorp_stores) ✅ Up to date - Version 2.1
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_animations) ✅ Up to date - Version 1.0
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_barbershop) ✅ Up to date - Version 1.0
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_admin) ✅ Up to date - Version 2.4
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_zonenotify) ✅ Up to date - Version 1.0
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_hunting) ✅ Up to date - Version 1.0.4
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_metabolism) ✅ Up to date - Version 1.1
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_banking) ✅ Up to date - Version 1.5
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_clothingstores) ✅ Up to date - Version 1.1
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_crafting) ✅ Up to date - Version 1.6
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_fishing) ✅ Up to date - Version 1.1
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_mailbox) ✅ Up to date - Version 1.0
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_outlaws) ✅ Up to date - Version 1.0
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_walkanim) ✅ Up to date - Version 1.2
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_weaponsv2) ✅ Up to date - Version 2.1
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_inputs) ✅ Up to date - Version 1.2
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_utils) ✅ Up to date - Version 1.1.1
+[    script:vorp_core] 
+[    script:vorp_core] 
+[    script:vorp_core] VORPcore Database Auto Updater 
+[    script:vorp_core] 
+[    script:vorp_core] Database Auto Updater (MariaDB)✅ Database is up to date
+[    script:vorp_core] ###############################################################################
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[      script:hardcap] Connecting: Khloe Bravo
+[      script:hardcap] Connecting: Juzeziin
+[ citizen-server-impl] server thread hitch warning: timer interval of 323 milliseconds
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] [0mCreating script environments for gum_housing
+[           resources] [0mStarted resource gum_housing
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[ citizen-server-impl] Couldn't find resource gum_ap.
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[    c-scripting-core] [0mCreating script environments for gum_api
+[           resources] Started resource gum_api
+[script:vorp_inventor] SCRIPT ERROR: citizen:/scripting/lua/scheduler.lua:479: attempt to concatenate a nil value (local 'err')
+[script:vorp_inventor] > handler (@vorp_inventory/server/services/inventoryService.lua:47)
+[script:vorp_inventor] Function call failed with error:	nil
+[ citizen-server-impl] Couldn't find resource gum_ap.
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[ script:gum_animmenu] SCRIPT ERROR: error object is not a string
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[    c-scripting-core] Creating script environments for gum_api
+[           resources] Started resource gum_api
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[  script:gum_housing] Get houses created from database
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[    c-scripting-core] Creating script environments for gum_api
+[           resources] Started resource gum_api
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] SCRIPT ERROR: error object is not a string
+[script:vorp_inventor] SCRIPT ERROR: citizen:/scripting/lua/scheduler.lua:479: attempt to concatenate a nil value (local 'err')
+[script:vorp_inventor] > handler (@vorp_inventory/server/services/inventoryService.lua:47)
+[script:vorp_inventor] Function call failed with error:	nil
+[script:vorp_inventor] SCRIPT ERROR: citizen:/scripting/lua/scheduler.lua:479: attempt to concatenate a nil value (local 'err')
+[script:vorp_inventor] > handler (@vorp_inventory/server/services/inventoryService.lua:47)
+[script:vorp_inventor] Function call failed with error:	nil
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[    c-scripting-core] Creating script environments for gum_api
+[           resources] Started resource gum_api
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] [97mSet payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[      script:hardcap] Connecting: Khloe Bravo
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[  script:gum_housing] Get houses created from database
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[    c-scripting-core] [0mCreating script environments for gum_api
+[           resources] Started resource gum_api
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] SCRIPT ERROR: error object is not a string
+[  script:gum_housing] SCRIPT ERROR: error object is not a string
+[  script:gum_housing] SCRIPT ERROR: error object is not a string
+[  script:gum_housing] SCRIPT ERROR: error object is not a string
+[  script:gum_housing] SCRIPT ERROR: error object is not a string
+[  script:gum_housing] SCRIPT ERROR: error object is not a string
+[  script:gum_housing] SCRIPT ERROR: error object is not a string
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] [0mCreating script environments for gum_housing
+[           resources] Started resource gum_housing
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[ script:gum_animmenu] SCRIPT ERROR: error object is not a string
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[    c-scripting-core] Creating script environments for gum_api
+[           resources] [97mStarted resource gum_api
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] [97mStarted resource gum_housing
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[      script:hardcap] Connecting: Guilherme
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[    c-scripting-core] Creating script environments for gum_api
+[           resources] Started resource gum_api
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] [0mStarted resource gum_housing
+[ citizen-server-impl] server thread hitch warning: timer interval of 203 milliseconds
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[ script:gum_animmenu] SCRIPT ERROR: error object is not a string
+[      script:hardcap] Connecting: pandamora24
+[ script:gum_animmenu] SCRIPT ERROR: error object is not a string
+[      script:hardcap] Connecting: Khloe Bravo[0m
+> txaEvent "adminsUpdated" "[2,4,5]"
+[ citizen-server-impl] sync thread hitch warning: timer interval of 108 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 107 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 221 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 230 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 191 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 143 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 219 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 116 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[    c-scripting-core] Creating script environments for gum_api
+[           resources] Started resource gum_api
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[ citizen-server-impl] [0mserver thread hitch warning: timer interval of 152 milliseconds
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[         script:chat] Guilherme: bota de dia ai
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[    c-scripting-core] Creating script environments for gum_api
+[           resources] [97mStarted resource gum_api
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[    c-scripting-core] Creating script environments for gum_api
+[           resources] Started resource gum_api
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[      script:hardcap] Connecting: Khloe Bravo
+[      script:hardcap] Connecting: Guilherme
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 108 milliseconds
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[ citizen-server-impl] server thread hitch warning: timer interval of 170 milliseconds
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[    c-scripting-core] Creating script environments for gum_api
+[           resources] Started resource gum_api
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] [97mStarted resource gum_housing
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[ script:gum_animmenu] SCRIPT ERROR: error object is not a string
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] [97mStarted resource gum_housing
+[ citizen-server-impl] [97mserver thread hitch warning: timer interval of 176 milliseconds
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[      script:hardcap] Connecting: Khloe Bravo
+[ script:gum_animmenu] SCRIPT ERROR: error object is not a string
+[ citizen-server-impl] sync thread hitch warning: timer interval of 143 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 172 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 170 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 207 milliseconds
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[    c-scripting-core] [0mCreating script environments for gum_api
+[           resources] Started resource gum_api
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[    c-scripting-core] [0mCreating script environments for gum_api
+[           resources] [0mStarted resource gum_api
+[      script:hardcap] Connecting: Khloe Bravo
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] [0msync thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 151 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 231 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 247 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 112 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 198 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 200 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 106 milliseconds
+[  script:gum_housing] SCRIPT ERROR: error object is not a string
+[  script:gum_housing] [91mSCRIPT ERROR: error object is not a string
+[  script:gum_housing] SCRIPT ERROR: error object is not a string
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[    c-scripting-core] Creating script environments for gum_api
+[           resources] Started resource gum_api
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[ script:gum_animmenu] SCRIPT ERROR: error object is not a string
+[ citizen-server-impl] sync thread hitch warning: timer interval of 118 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[ citizen-server-impl] server thread hitch warning: timer interval of 158 milliseconds
+[  script:gum_housing] Get houses created from database
+[     script:nss_libs] gum_api stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_api
+[    c-scripting-core] [0mCreating script environments for gum_api
+[           resources] Started resource gum_api
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] SCRIPT ERROR: error object is not a string
+[  script:gum_housing] SCRIPT ERROR: error object is not a string
+[  script:gum_housing] SCRIPT ERROR: error object is not a string
+[  script:gum_housing] SCRIPT ERROR: error object is not a string
+[38;5;86m[  script:gum_housing] SCRIPT ERROR: error object is not a string
+[  script:gum_housing] SCRIPT ERROR: error object is not a string
+[     script:nss_libs] gum_housing stopped, remove all known attached props of this resource
+[           resources] Stopping resource gum_housing
+[    c-scripting-core] [0mCreating script environments for gum_housing
+[           resources] Started resource gum_housing
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[  script:gum_housing] Select characters from database
+[  script:gum_housing] [Housing] Database: Checked all user!
+[ citizen-server-impl] sync thread hitch warning: timer interval of 196 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 241 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 248 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 288 milliseconds
+[      script:hardcap] Connecting: Khloe Bravo
+[ script:gum_animmenu] SCRIPT ERROR: error object is not a string
+[      script:hardcap] Connecting: Juzeziin
+[         script:chat] Khloe Bravo: scale 1
+[ script:gum_animmenu] SCRIPT ERROR: error object is not a string
+[         script:chat] Guilherme: revive 5
+[      script:hardcap] Connecting: Khloe Bravo
+[ script:gum_animmenu] SCRIPT ERROR: error object is not a string
+[ citizen-server-impl] sync thread hitch warning: timer interval of 129 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 162 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[38;5;86m[  script:gum_housing] [Housing] Database: Checked all user!
+[ citizen-server-main] -> Quitting: SIGHUP received
+
+================================================================
+======== FXServer Starting - 1/28/2024, 4:16:15 AM              
+================================================================
+[           resources] Scanning resources.
+[38;5;83m[           resources] Found 98 resources.
+[          svadhesive] Authenticating server license key...
+[38;5;66m[          svadhesive] Server license key authentication succeeded. Welcome!
+[    c-scripting-core] Creating script environments for yarn
+[           resources] Started resource yarn
+[    c-scripting-core] Creating script environments for sessionmanager-rdr3
+[           resources] Started resource sessionmanager-rdr3
+[    c-scripting-core] [0mCreating script environments for monitor
+[      script:monitor] [txAdmin] Resource v6.0.2 threads and commands set up. All Ready.
+[           resources] Started resource monitor
+[    c-scripting-core] Creating script environments for mapmanager
+[           resources] Started resource mapmanager
+[    c-scripting-core] Creating script environments for webpack
+[38;5;83m[           resources] [97mStarted resource webpack
+[ citizen-server-impl] Running build tasks on resource chat - it'll restart once completed.
+[38;5;21m[      script:webpack] [97mchat: started building webpack.config.js
+[38;5;73m[ citizen-server-impl] Couldn't start resource chat.
+[           resources] Started resource spawnmanager
+[38;5;154m[   script:mapmanager] Started gametype Freeroam
+[           resources] Started resource basic-gamemode
+[   script:mapmanager] Started map redm-map-one
+[           resources] Started resource redm-map-one
+[    c-scripting-core] Creating script environments for hardcap
+[           resources] Started resource hardcap
+[38;5;161m[    c-scripting-core] Creating script environments for oxmysql
+[           resources] Started resource oxmysql
+[           resources] Started resource vorp_menu
+[    c-scripting-core] Creating script environments for weathersync
+[           resources] Started resource weathersync
+[           resources] Started resource interiors
+[           resources] Started resource syn_minigame
+[    c-scripting-core] Creating script environments for vorp_core
+[           resources] Started resource vorp_core
+[           resources] Started resource vorp_inputs
+[38;5;161m[    c-scripting-core] [0mCreating script environments for vorp_progressbar
+[           resources] Started resource vorp_progressbar
+[38;5;161m[    c-scripting-core] Creating script environments for vorp_inventory
+[           resources] Started resource vorp_inventory
+[    c-scripting-core] Creating script environments for vorp_character
+[           resources] Started resource vorp_character
+[    c-scripting-core] Creating script environments for vorp_utils
+[           resources] Started resource vorp_utils
+[38;5;161m[    c-scripting-core] Creating script environments for vorp_admin
+[           resources] Started resource vorp_admin
+[    c-scripting-core] Creating script environments for vorp_metabolism
+[           resources] Started resource vorp_metabolism
+[    c-scripting-core] Creating script environments for vorp_barbershop
+[           resources] Started resource vorp_barbershop
+[38;5;161m[    c-scripting-core] Creating script environments for vorp_postman
+[ script:vorp_postman] vorp_postman: Language En.json loaded!
+[ script:vorp_postman] Instantiated instance of script vorp_postman_sv.LoadConfig.
+[ script:vorp_postman] Instantiated instance of script vorp_postman_sv.vorp_postman_sv_init.
+[           resources] Started resource vorp_postman
+[    c-scripting-core] Creating script environments for vorp_hunting
+[           resources] Started resource vorp_hunting
+[    c-scripting-core] Creating script environments for vorp_weaponsv2
+[38;5;83m[           resources] Started resource vorp_weaponsv2
+[38;5;161m[    c-scripting-core] Creating script environments for vorp_clothingstores
+[resources:vorp_cloth] Warning: could not find shared_script `languages/*.lua` (defined in fxmanifest.lua:20)
+[           resources] Started resource vorp_clothingstores (1 warning)
+[    c-scripting-core] Creating script environments for vorp_stores
+[38;5;83m[           resources] Started resource vorp_stores
+[38;5;161m[    c-scripting-core] [0mCreating script environments for vorp_fishing
+[38;5;83m[           resources] Started resource vorp_fishing
+[    c-scripting-core] [0mCreating script environments for vorp_housing
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Shared.BasePluginManager.
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Shared.Models.House.
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Shared.Models.Room.
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Server.HouseInventory.
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Server.Init.
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Server.PluginManager.
+[ script:vorp_housing] Instantiated instance of script VORP.Housing.Server.Scripts.Manager.
+[           resources] Started resource vorp_housing
+[    c-scripting-core] Creating script environments for vorp_banking
+[           resources] Started resource vorp_banking
+[    c-scripting-core] Creating script environments for vorp_mailbox
+[           resources] Started resource vorp_mailbox
+[    c-scripting-core] Creating script environments for vorp_walkanim
+[38;5;83m[           resources] Started resource vorp_walkanim
+[    c-scripting-core] [0mCreating script environments for vorp_ml_policejob
+[           resources] Started resource vorp_ml_policejob
+[    c-scripting-core] Creating script environments for vorp_crafting
+[           resources] Started resource vorp_crafting
+[    c-scripting-core] Creating script environments for vorp_zonenotify
+[           resources] Started resource vorp_zonenotify
+[    c-scripting-core] [0mCreating script environments for vorp_mining
+[38;5;83m[           resources] Started resource vorp_mining
+[    c-scripting-core] Creating script environments for vorp_lumberjack
+[           resources] Started resource vorp_lumberjack
+[    c-scripting-core] Creating script environments for vorp_animations
+[           resources] Started resource vorp_animations
+[    c-scripting-core] Creating script environments for vorp_outlaws
+[           resources] Started resource vorp_outlaws
+[    c-scripting-core] Creating script environments for gum_api
+[           resources] Started resource gum_api
+[    c-scripting-core] Creating script environments for gum_housing
+[           resources] Started resource gum_housing
+[    c-scripting-core] Creating script environments for gum_lockpick
+[38;5;83m[           resources] Started resource gum_lockpick
+[           resources] Started resource house_model
+[           resources] Started resource spooni_houses
+[    c-scripting-core] Creating script environments for gum_animmenu
+[           resources] Started resource gum_animmenu
+[    c-scripting-core] Creating script environments for bcc-utils
+[           resources] Started resource bcc-utils
+[    c-scripting-core] Creating script environments for bcc-minigames
+[           resources] Started resource bcc-minigames
+[38;5;161m[    c-scripting-core] Creating script environments for bcc-stables
+[           resources] Started resource bcc-stables
+[    c-scripting-core] Creating script environments for bcc-ranch
+[           resources] Started resource bcc-ranch
+[    c-scripting-core] Creating script environments for bcc-boats
+[           resources] Started resource bcc-boats
+[    c-scripting-core] Creating script environments for bcc-farming
+[           resources] Started resource bcc-farming
+[    c-scripting-core] Creating script environments for bcc-pets
+[           resources] Started resource bcc-pets
+[    c-scripting-core] Creating script environments for bcc-wagons
+[           resources] Started resource bcc-wagons
+[    c-scripting-core] Creating script environments for nss_libs
+[           resources] Started resource nss_libs
+[    c-scripting-core] Creating script environments for nss_pedmenu
+[           resources] Started resource nss_pedmenu
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[38;5;161m[    c-scripting-core] Creating script environments for bulgar_river
+[38;5;118m[ script:bulgar_river] [35m bulgar_river Successfully Loaded 
+[ script:bulgar_river]  Developed by BulgaR 
+[ script:bulgar_river]  If you got any question or require support join: https://discord.gg/dcyY2e5kb3 
+[38;5;83m[           resources] Started resource bulgar_river
+[ citizen-server-impl] server thread hitch warning: timer interval of 219 milliseconds
+[    script:bcc-utils] ✅Up to Date! [bcc-utils] (Current Version 1.0.6)
+[    script:bcc-utils] ✅Up to Date! [bcc-ranch] (Current Version 1.3.3)
+[    script:bcc-utils] ✅Up to Date! [bcc-farming] (Current Version 1.0.4)
+[      script:oxmysql] Database server connection established!
+[     script:nss_libs] ✅   Up to Date! nss_libs (Installed 0.28.1)
+[ citizen-server-impl]         fff                          
+[ citizen-server-impl]   cccc ff   xx  xx     rr rr    eee  
+[ citizen-server-impl] cc     ffff   xx       rrr  r ee   e 
+[ citizen-server-impl] cc     ff     xx   ... rr     eeeee  
+[ citizen-server-impl]  ccccc ff   xx  xx ... rr      eeeee 
+[ citizen-server-impl]                                      
+[ citizen-server-impl] Authenticated with cfx.re Nucleus: https://khloebravo-466z99.users.cfx.re/
+[      script:oxmysql] An update is available for oxmysql (current version: 2.7.1)
+[      script:oxmysql] https://github.com/overextended/oxmysql/releases/tag/v2.7.7
+[     script:nss_libs] ✅   Up to Date! nss_pedmenu (Installed 1.0.0)
+[  script:gum_housing] Get houses created from database
+[  script:gum_housing] Get payments of created from database
+[  script:gum_housing] [Housing] Database: Checked houses!
+[  script:gum_housing] Set payments from database
+[  script:gum_housing] Set payments of hotels
+[  script:gum_housing] [Housing] Database: Checked hotels!
+[script:vorp_metaboli] Metabolism: Loading 5 items usables
+[  script:gum_housing] [Housing] Database: Checked interiors!
+[    script:vorp_core] ###############################################################################
+[    script:vorp_core] 
+[    script:vorp_core] ----- #RedM ----------------------------------------------------------------------
+[    script:vorp_core]  /##    /##  /######  /#######  /#######   /######   /######  /#######  /########
+[    script:vorp_core] | ##   | ## /##__  ##| ##__  ##| ##__  ## /##__  ## /##__  ##| ##__  ##| ##_____/
+[    script:vorp_core] | ##   | ##| ##  | ##| ##  | ##| ##  | ##| ##  |__/| ##  | ##| ##  | ##| ##      
+[    script:vorp_core] |  ## / ##/| ##  | ##| #######/| #######/| ##      | ##  | ##| #######/| #####   
+[    script:vorp_core]  |  ## ##/ | ##  | ##| ##__  ##| ##____/ | ##      | ##  | ##| ##__  ##| ##__/   
+[    script:vorp_core]   |  ###/  | ##  | ##| ##  | ##| ##      | ##    ##| ##  | ##| ##  | ##| ##      
+[    script:vorp_core]    |  #/   |  ######/| ##  | ##| ##      |  ######/|  ######/| ##  | ##| ########
+[    script:vorp_core]     |_/     |______/ |__/  |__/|__/       |______/  |______/ |__/  |__/|________/
+[    script:vorp_core] ----------------------------------------------------VORPcore Framework Lua -----
+[    script:vorp_core] 
+[    script:vorp_core] VORPcore Version check 
+[    script:vorp_core] Resources found
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_progressbar) ❌ Outdated (v1.1) - Update found: Version 1.2.0 (https://github.com/VORPCORE/vorp_progressbar)
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_inventory) ❌ Outdated (v3.2) - Update found: Version 3.3 (https://github.com/VORPCORE/vorp_inventory-lua)
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_character) ❌ Outdated (v1.4) - Update found: Version 1.5 (https://github.com/VORPCORE/vorp_character-lua)
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_core) ❌ Outdated (v2.3) - Update found: Version 2.4 (https://github.com/VORPCORE/vorp-core-lua)
+[    script:vorp_core] 
+[    script:vorp_core] ###############################
+[    script:vorp_core] 
+[    script:vorp_core] VORP_PROGRESSBAR - Changelog:
+[    script:vorp_core]  
+[    script:vorp_core] - progressBars support added (Remove progressBars if you have it installed
+[    script:vorp_core] ###############################
+[    script:vorp_core] 
+[    script:vorp_core] VORP_INVENTORY - Changelog:
+[    script:vorp_core]   
+[    script:vorp_core] - fixed items with metadata being removed and then addd back on relog  
+[    script:vorp_core] - added some error handling for some functions  
+[    script:vorp_core] - added new export to get core object  
+[    script:vorp_core] - added new callbacks  
+[    script:vorp_core] - added custom description for weapons  
+[    script:vorp_core] - added exports for modifying/adding custom label description and serial numbers from weapons  
+[    script:vorp_core] - removed dataview file , using vorp core file instead.  
+[    script:vorp_core] - refactor opening custom inventories with a notify saying its busy  
+[    script:vorp_core] - item trade logs fixed  
+[    script:vorp_core] - added config file just for logs  
+[    script:vorp_core] - make sure to update all files
+[    script:vorp_core] ###############################
+[    script:vorp_core] 
+[    script:vorp_core] VORP_CHARACTER - Changelog:
+[    script:vorp_core]  
+[    script:vorp_core] - In this version RDO intro has been added with scenes  
+[    script:vorp_core] - Textures for character selector should now be loaded correctly and not be *seen* loading 
+[    script:vorp_core] - refactor most of the code to work with RDO intro 
+[    script:vorp_core] - mug shots will be sent to client social club app in game they can gather their screenshots there edit etc... 
+[    script:vorp_core] - added some extra checks and optimized a bit of the code 
+[    script:vorp_core] - added some text to let players know the stage they go in 
+[    script:vorp_core] - to update to this venison to must back up your old and add your new do not replace files
+[    script:vorp_core] ###############################
+[    script:vorp_core] 
+[    script:vorp_core] VORP_CORE - Changelog:
+[    script:vorp_core]   
+[    script:vorp_core] - added export GetCore() instead of using trigger event  
+[    script:vorp_core] - GetCore export now has new call back system included  
+[    script:vorp_core] - you can call dataview in your scripts like `@vorp_core/client/dataview.lua`   
+[    script:vorp_core] - added to the logs of modifyCharName the new name added to the player  
+[    script:vorp_core] - added state bags visit documentation `https://vorpcore.github.io/VORP_Documentation/api/core#state 
+[    script:vorp_core] -bags`  
+[    script:vorp_core] - new event listeners for job changes and group `https://vorpcore.github.io/VORP_Documentation/api/core#event 
+[    script:vorp_core] -listners`  
+[    script:vorp_core] - other small issues were fixed  
+[    script:vorp_core] - update all file
+[    script:vorp_core] ###############################
+[    script:vorp_core] 
+[    script:vorp_core] ###############################################################################
+[    script:vorp_core] Resource version Check (vorp_stores) ✅ Up to date - Version 2.1
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_animations) ✅ Up to date - Version 1.0
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_barbershop) ✅ Up to date - Version 1.0
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_admin) ✅ Up to date - Version 2.4
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_zonenotify) ✅ Up to date - Version 1.0
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_hunting) ✅ Up to date - Version 1.0.4
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_metabolism) ✅ Up to date - Version 1.1
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_banking) ✅ Up to date - Version 1.5
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_clothingstores) ✅ Up to date - Version 1.1
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_crafting) ✅ Up to date - Version 1.6
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_fishing) ✅ Up to date - Version 1.1
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_mailbox) ✅ Up to date - Version 1.0
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_outlaws) ✅ Up to date - Version 1.0
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_walkanim) ✅ Up to date - Version 1.2
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_weaponsv2) ✅ Up to date - Version 2.1
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_inputs) ✅ Up to date - Version 1.2
+[    script:vorp_core] 
+[    script:vorp_core] Resource version Check (vorp_utils) ✅ Up to date - Version 1.1.1
+[    script:vorp_core] 
+[    script:vorp_core] 
+[    script:vorp_core] VORPcore Database Auto Updater 
+[    script:vorp_core] 
+[    script:vorp_core] Database Auto Updater (MariaDB)✅ Database is up to date
+[    script:vorp_core] ###############################################################################
+[  script:gum_housing] Select housing from database
+[  script:gum_housing] Select hotels from database
+[38;5;86m[  script:gum_housing] Select characters from database
+[38;5;86m[  script:gum_housing] [Housing] Database: Checked all user!
+[      script:webpack] chat: built webpack.config.js
+[ citizen-server-impl] Build tasks completed - starting resource chat.
+[    c-scripting-core] Creating script environments for chat
+[38;5;83m[           resources] Started resource chat
+[ citizen-server-impl] server thread hitch warning: timer interval of 157 milliseconds
+[      script:hardcap] Connecting: Khloe Bravo
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 456 milliseconds
+[38;5;141m[ script:gum_animmenu] GET SQL EVENT 5
+[ citizen-server-impl] sync thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 158 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 200 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 104 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[      script:hardcap] Connecting: Juzeziin
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[           resources] Scanning resources.
+[           resources] Found 0 new resources, and refreshed 1/98 resources.
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[ citizen-server-impl] server thread hitch warning: timer interval of 161 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 101 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 318 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 280 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 103 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 185 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 110 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 178 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 122 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 225 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 240 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 271 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 221 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 118 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 234 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 188 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 169 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 343 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 199 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 276 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 349 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 205 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 114 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 213 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 170 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 179 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 186 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 229 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 142 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 194 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 137 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 307 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 258 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 149 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 184 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 114 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 165 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 126 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 157 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 185 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 168 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 132 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 215 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 181 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 215 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 146 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 327 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 272 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 195 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 194 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 204 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 202 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 164 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 197 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 102 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 201 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 108 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 237 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 244 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 157 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 160 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 126 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 234 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 222 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 167 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 288 milliseconds
+[      script:oxmysql] [WARNING] vorp_inventory took 279.4697ms to execute a query!
+[      script:oxmysql]     DELETE FROM character_inventories WHERE character_id = ? AND item_crafted_id = ?; [2,25]
+[      script:oxmysql] [WARNING] vorp_inventory took 300.9609ms to execute a query!
+[      script:oxmysql]     INSERT INTO items_crafted (character_id, item_id, metadata) VALUES (?, ?, ?); [2,331,"{\"description\":\"Durability = 98\",\"durability\":98}"]
+[ citizen-server-impl] sync thread hitch warning: timer interval of 255 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 170 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 146 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[      script:oxmysql] [WARNING] vorp_inventory took 298.171ms to execute a query!
+[      script:oxmysql]     DELETE FROM items_crafted WHERE id = ?; [25]
+[      script:oxmysql] [WARNING] vorp_inventory took 291.9661ms to execute a query!
+[      script:oxmysql]     SELECT * FROM items_crafted WHERE character_id = ? AND item_id = ? AND JSON_CONTAINS(metadata, ?); [2,331,"{\"description\":\"Durability = 98\",\"durability\":98}"]
+[ citizen-server-impl] sync thread hitch warning: timer interval of 179 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 219 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 199 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 233 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 248 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 190 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 138 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 203 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 244 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 113 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 231 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 280 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 158 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 169 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 138 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 359 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 293 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 296 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 240 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 262 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 195 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 357 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 314 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 147 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 177 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 109 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 179 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 242 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 177 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 154 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 178 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 207 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 120 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 172 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 169 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 205 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 211 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 137 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 135 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 231 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 328 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 124 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 152 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 159 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 111 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 197 milliseconds
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 262 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 180 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 249 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 137 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 181 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 275 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 258 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 163 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 156 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 150 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 165 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 169 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 214 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 155 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 149 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 153 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 189 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 205 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 147 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 157 milliseconds
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[ citizen-server-impl] server thread hitch warning: timer interval of 240 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 193 milliseconds
+[           resources] Scanning resources.
+[           resources] Found 1 new resources, and refreshed 1/98 resources.
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] [0mStarted resource allsides_sobrenatural
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] [0mStarted resource allsides_sobrenatural
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[      script:hardcap] Connecting: Juzeziin
+[38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 222 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 169 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 244 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 253 milliseconds
+[  script:gum_housing] [Housing] Database: Checked all user!
+[      script:hardcap] Connecting: Juzeziin
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] [0mStarted resource allsides_sobrenatural
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] [0mCreating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[     script:nss_libs] allsides_sobrenatural stopped, remove all known attached props of this resource
+[           resources] Stopping resource allsides_sobrenatural
+[    c-scripting-core] Creating script environments for allsides_sobrenatural
+[           resources] Started resource allsides_sobrenatural
+[38;5;86m[  script:gum_housing] [Housing] Database: Checked all user!
+[  script:gum_housing] [Housing] Database: Checked all user!
+[  script:gum_housing] [Housing] Database: Checked all user!
+[  script:gum_housing] [Housing] Database: Checked all user!
+[      script:hardcap] Connecting: ton
+[      script:hardcap] Connecting: Ton
+[38;5;86m[  script:gum_housing] [Housing] Database: Checked all user!
+[ citizen-server-impl] sync thread hitch warning: timer interval of 109 milliseconds
+[  script:gum_housing] [Housing] Database: Checked all user!
+[  script:gum_housing] [Housing] Database: Checked all user!
+[  script:gum_housing] [Housing] Database: Checked all user!
+[38;5;86m[  script:gum_housing] [Housing] Database: Checked all user!
+[  script:gum_housing] [Housing] Database: Checked all user!
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[  script:gum_housing] [Housing] Database: Checked all user!
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] [0mServer list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[38;5;73m[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[  script:gum_housing] [Housing] Database: Checked all user!
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[ citizen-server-impl] Server list query returned an error: System.Net.Sockets.SocketException: Connection refused <- System.Net.Http.HttpRequestException: Connection refused (189.89.60.130:30120)
+[  script:gum_housing] [Housing] Database: [97mChecked all user!
+[  script:gum_housing] [Housing] Database: Checked all user!
+[38;5;86m[  script:gum_housing] [Housing] Database: Checked all user!
+[38;5;86m[  script:gum_housing] [Housing] Database: Checked all user!
+[  script:gum_housing] [Housing] Database: Checked all user!
+[  script:gum_housing] [Housing] Database: Checked all user!
+[ citizen-server-impl] sync thread hitch warning: timer interval of 115 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 163 milliseconds
+[ citizen-server-impl] sync thread hitch warning: timer interval of 219 milliseconds
+[ citizen-server-impl] network thread hitch warning: timer interval of 222 milliseconds
+[ citizen-server-impl] server thread hitch warning: timer interval of 266 milliseconds
+[  citizen-server-gui] You can reopen the server GUI using the command svgui.
+[ citizen-server-main] -> Quitting: SIGHUP received

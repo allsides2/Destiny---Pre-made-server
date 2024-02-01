@@ -1,0 +1,165 @@
+[
+  {
+    "name": "khloebravo",
+    "master": true,
+    "password_hash": "$2a$11$h7shVnnXj18dUk73WbpxAervn/TDnQTwBD8pvuwnhTqO5x3mkNnoy",
+    "providers": {
+      "citizenfx": {
+        "id": "khloebravo",
+        "identifier": "fivem:11762665",
+        "data": {
+          "sub": "a52110abcc9c9c8e01c16ecb66b05235",
+          "nameid": "https://forum.cfx.re/internal/user/11762665",
+          "name": "khloebravo",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/khloebravo/256/3808850_2.png",
+          "profile": "https://forum.cfx.re/u/khloebravo"
+        }
+      }
+    },
+    "permissions": []
+  },
+  {
+    "name": "allsides",
+    "master": false,
+    "password_hash": "$2a$11$WdGpF7vRh.4CjGijFkrX3.CVEDoZKPhhds6bKQTnv0t65t4o5HxFu",
+    "password_temporary": true,
+    "providers": {
+      "citizenfx": {
+        "id": "allsides",
+        "identifier": "fivem:1028338",
+        "data": {
+          "sub": "68110a841f2fb90d376d3d93332231f2",
+          "nameid": "https://forum.cfx.re/internal/user/1028338",
+          "name": "allsides",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/allsides/256/124429_2.png",
+          "profile": "https://forum.cfx.re/u/allsides"
+        }
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "Juzezin1",
+    "master": false,
+    "password_hash": "$2a$11$vCKsmhUHqRo7zDSNPxfTYu.Y1pkMXZL1NyuokEFCB7OR62AcV2P8y",
+    "password_temporary": true,
+    "providers": {
+      "citizenfx": {
+        "id": "Juzezin1",
+        "identifier": "fivem:2220289",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "guilherme",
+    "master": false,
+    "password_hash": "$2a$11$VtQiMKG54cTaO1N3I1gJMeGP9s2ROgR.jwtANtm98zUEyDBqJQOY.",
+    "password_temporary": true,
+    "providers": {
+      "citizenfx": {
+        "id": "Guilherme_Moreira3",
+        "identifier": "fivem:1991627",
+        "data": {}
+      },
+      "discord": {
+        "id": "447225242939555852",
+        "identifier": "discord:447225242939555852",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "ton",
+    "master": false,
+    "password_hash": "$2a$11$SXFUSDRXV3AAjJRYCV8PN.MRq86Fej9cvbnUVJEjU8keu67w7.Thi",
+    "password_temporary": true,
+    "providers": {
+      "citizenfx": {
+        "id": "RezNn",
+        "identifier": "fivem:3784769",
+        "data": {}
+      },
+      "discord": {
+        "id": "184811887425355777",
+        "identifier": "discord:184811887425355777",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "pandamora24",
+    "master": false,
+    "password_hash": "$2a$11$kO3edKOM9vw587q9Z6mJM.0n8f49AIfoD01en.Qg8QKB1cjM.uJhC",
+    "password_temporary": true,
+    "providers": {
+      "citizenfx": {
+        "id": "Pandamora23",
+        "identifier": "fivem:12887456",
+        "data": {}
+      },
+      "discord": {
+        "id": "668678545383358465",
+        "identifier": "discord:668678545383358465",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "DestinyRoleplay2",
+    "master": false,
+    "password_hash": "$2a$11$8H3Fwxc7KY9JO1oFJU5HJOwLsoVNBYWyINmx0n4A0kIbo0rjKwL2a",
+    "password_temporary": true,
+    "providers": {
+      "citizenfx": {
+        "id": "DestinyRoleplay2",
+        "identifier": "fivem:13112812",
+        "data": {
+          "sub": "268aa3c012bc69b571fae5ba811f7729",
+          "nameid": "https://forum.cfx.re/internal/user/13112812",
+          "name": "DestinyRoleplay2",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/destinyroleplay2/256/3606647_2.png",
+          "profile": "https://forum.cfx.re/u/DestinyRoleplay2"
+        }
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "hatook",
+    "master": false,
+    "password_hash": "$2a$11$skw7YZ115P4acTXMucZwJuc6QIHJAsOuzWL6ZOjfct6YUF1/AIwfi",
+    "password_temporary": true,
+    "providers": {
+      "citizenfx": {
+        "id": "dante_cortes",
+        "identifier": "fivem:12434841",
+        "data": {}
+      },
+      "discord": {
+        "id": "364071785341255682",
+        "identifier": "discord:364071785341255682",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]

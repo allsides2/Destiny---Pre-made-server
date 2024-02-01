@@ -1,0 +1,22 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 06/01/2024 01:01:57
+================================================================
+[01:02:25][allsides] created admins file
+[01:02:37][allsides] Changing global settings via setup stepper and started Deployer.
+[01:02:55][allsides] Setting recipe.
+[01:03:03][allsides] Running recipe.
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 06/01/2024 01:05:10
+================================================================
+[01:05:29][allsides] logged in from 127.0.0.1 via citizenfx
+[01:05:47][allsides] Changing global settings via setup stepper and started Deployer.
+[01:05:58][allsides] Setting recipe.
+[01:06:05][allsides] Running recipe.
+[01:06:53][allsides] Completed and committed server deploy.
+[01:23:22][allsides] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 6683 Starting - 06/01/2024 01:57:25
+================================================================

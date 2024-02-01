@@ -1,0 +1,160 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 1/29/2024, 12:17:59 AM
+================================================================
+
+================================================================
+======== Log Rotated - 1/29/2024, 12:17:59 AM                   
+================================================================
+[00:18:29][allsides] logged in from 127.0.0.1 via citizenfx
+[00:19:36][allsides] executed "ensure "bcc-camp""
+[00:21:30][allsides] executed "ensure "vorp_crawfish""
+[00:22:00][allsides] executed "ensure "vorp_logout""
+[00:22:25][allsides] executed "ensure "vorp_lootnpcs""
+[00:23:12][allsides] executed "RESTART SERVER"
+[00:28:36][guilherme] logged in via in-game ui
+[00:32:21][allsides] executed "RESTART SERVER"
+[00:34:21][guilherme] logged in via in-game ui
+[00:36:02][guilherme] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 1/29/2024, 12:40:44 AM
+================================================================
+[00:41:55][guilherme] logged in via in-game ui
+[00:45:03][allsides] logged in from 127.0.0.1 via citizenfx
+[00:45:03][guilherme] logged in via in-game ui
+[00:45:17][allsides] executed "ensure "fx-pedmenu""
+[00:45:22][Juzezin1] logged in via in-game ui
+[00:54:11][allsides] executed "stop "vorp_metabolism""
+[00:54:39][allsides] executed "ensure "bcc-boats""
+[00:55:05][allsides] executed "refresh"
+[00:55:11][allsides] executed "ensure "bcc-boats""
+[00:56:26][allsides] executed "ensure "bcc-guarma""
+[01:14:38][allsides] executed "refresh"
+[01:14:44][allsides] executed "ensure "bcc-doorlocks""
+[01:15:43][allsides] executed "refresh"
+[01:15:49][allsides] executed "ensure "bcc-doorlocks""
+[01:20:20][allsides] executed "refresh"
+[01:20:27][allsides] executed "ensure "bcc-pets""
+[01:25:07][allsides] executed "ensure "bcc-pets""
+[01:26:28][allsides] executed "ensure "bcc-pets""
+[01:27:15][allsides] executed "ensure "bcc-pets""
+[01:32:39][allsides] executed "refresh"
+[01:32:48][allsides] executed "ensure "bcc-job-alerts""
+[01:32:58][allsides] executed "ensure "bcc-robbery""
+[01:40:25][allsides] executed "ensure "bcc-robbery""
+[01:42:30][allsides] executed "ensure "bcc-robbery""
+[01:46:25][allsides] executed "ensure "bcc-robbery""
+[01:51:03][allsides] executed "refresh"
+[01:51:14][allsides] executed "ensure "bcc-job-alerts""
+[02:12:26][pandamora24] logged in via in-game ui
+[02:13:50][pandamora24] logged in from via NUI iframe
+[02:23:07][allsides] executed "ensure "scale""
+[02:29:30][ton] logged in via in-game ui
+[02:35:59][pandamora24] logged in via in-game ui
+[02:43:53][guilherme] Warned player [2] Juzeziin: olha o dc porra
+[03:25:58][allsides] executed "time 0 12 0 0 0 1"
+[03:27:04][allsides] executed "ensure "spooner""
+[04:12:42][allsides] executed "refresh"
+[04:12:49][allsides] executed "ensure "vorp_mining""
+[04:19:09][allsides] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 1/29/2024, 4:54:17 AM
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 1/29/2024, 4:55:11 AM
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 1/29/2024, 4:57:18 AM
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 1/29/2024, 4:58:09 AM
+================================================================
+[04:59:42][allsides] logged in from 127.0.0.1 via citizenfx
+[05:01:30][allsides] executed "ensure "gum_ranch""
+[05:02:49][allsides] executed "refresh"
+[05:02:58][allsides] executed "ensure "gum_ranch""
+[05:08:21][allsides] executed "RESTART SERVER"
+[05:10:26][guilherme] logged in via in-game ui
+[05:12:21][Juzezin1] logged in via in-game ui
+[05:15:51][allsides] executed "ensure "gum_ranch""
+[05:15:58][allsides] executed "stop "gum_ranch""
+[05:16:04][allsides] executed "ensure "gum_api""
+[05:16:10][allsides] executed "ensure "gum_ranch""
+[05:20:25][allsides] executed "refresh"
+[05:20:32][allsides] executed "stop "gum_api""
+[05:20:38][allsides] executed "stop "gum_ranch""
+[05:20:48][allsides] executed "ensure "gumApi""
+[05:20:58][allsides] executed "ensure "gum_ranch""
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 1/29/2024, 5:23:41 AM
+================================================================
+[05:25:51][allsides] logged in from 127.0.0.1 via citizenfx
+[05:26:12][allsides] executed "ensure "rsd_mapcolor""
+[05:27:37][guilherme] logged in via in-game ui
+[05:27:43][Juzezin1] logged in via in-game ui
+[05:29:55][allsides] executed "stop "vorp_metabolism""
+[05:46:25][allsides] executed "ensure "gum_ranch""
+[05:54:17][allsides] executed "RESTART SERVER"
+[05:59:43][allsides] executed "RESTART SERVER"
+[06:01:11][Juzezin1] logged in via in-game ui
+[06:01:26][guilherme] logged in via in-game ui
+[06:03:52][allsides] executed "stop "vorp_metabolism""
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 1/29/2024, 6:39:39 PM
+================================================================
+[18:57:01][guilherme] logged in via in-game ui
+[19:00:42][guilherme] logged in from via NUI iframe
+[19:03:17][guilherme] Adding admin 'DestinyRoleplay2'.
+[19:03:17][guilherme] logged in via in-game ui
+[19:03:27][guilherme] logged in from via NUI iframe
+[19:06:10][guilherme] Editing user 'DestinyRoleplay2'.
+[19:06:10][guilherme] logged in via in-game ui
+[19:06:15][guilherme] logged in from via NUI iframe
+[19:06:38][DestinyRoleplay2] logged in from 127.0.0.1 via citizenfx
+[19:06:39][guilherme] logged in via in-game ui
+[19:06:50][DestinyRoleplay2] executed "ensure "vorp_metabolism""
+[19:06:52][DestinyRoleplay2] executed "stop "vorp_metabolism""
+[19:08:48][DestinyRoleplay2] executed "ensure "vorp_lumberjack""
+[19:42:33][DestinyRoleplay2] executed "RESTART SERVER"
+[19:44:04][guilherme] logged in via in-game ui
+[20:16:06][DestinyRoleplay2] executed "ensure "vorp_crawfish""
+[20:20:05][DestinyRoleplay2] executed "RESTART SERVER"
+[20:23:39][guilherme] logged in via in-game ui
+[20:25:41][DestinyRoleplay2] executed "ensure "vorp_crawfish""
+[20:26:45][DestinyRoleplay2] executed "ensure "vorp_crawfish""
+[20:28:27][DestinyRoleplay2] executed "ensure "vorp_crawfish""
+[20:31:48][DestinyRoleplay2] executed "ensure "vorp_crawfish""
+[20:33:04][DestinyRoleplay2] executed "ensure "vorp_crawfish""
+[20:33:43][DestinyRoleplay2] executed "ensure "vorp_crawfish""
+[20:41:45][DestinyRoleplay2] executed "ensure "vorp_crawfish""
+[20:42:43][DestinyRoleplay2] executed "ensure "vorp_crawfish""
+[20:43:38][DestinyRoleplay2] executed "ensure "vorp_crawfish""
+[20:45:04][DestinyRoleplay2] executed "ensure "vorp_crawfish""
+[20:46:29][DestinyRoleplay2] executed "ensure "vorp_crawfish""
+[20:50:03][DestinyRoleplay2] executed "ensure "vorp_crawfish""
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 1/29/2024, 9:16:45 PM
+================================================================
+[21:18:17][guilherme] logged in via in-game ui
+[21:23:59][DestinyRoleplay2] logged in from 127.0.0.1 via citizenfx
+[21:23:59][guilherme] logged in via in-game ui
+[21:24:05][DestinyRoleplay2] executed "ensure "bcc-housing""
+[21:26:17][DestinyRoleplay2] executed "ensure "bcc-housing""
+[21:39:05][DestinyRoleplay2] executed "ensure "GoldPaning""
+[21:56:47][DestinyRoleplay2] executed "ensure "syn_farming""
+[22:49:04][Juzezin1] logged in via in-game ui
+[23:44:31][DestinyRoleplay2] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 1/29/2024, 11:51:50 PM
+================================================================
+[23:53:15][guilherme] logged in via in-game ui
+[23:53:25][Juzezin1] logged in via in-game ui
